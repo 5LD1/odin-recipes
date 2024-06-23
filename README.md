@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple html project that will demonstrate basic knowledge in html boilerplate, elements and tags, lists, links, and images. This project will consist of a recipe website with a main index page and links to a few recipes.
